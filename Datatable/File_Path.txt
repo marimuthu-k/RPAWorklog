@@ -1,0 +1,7 @@
+File Path,File Name
+C:\Users\cse\Documents\UiPath\Datatable\PDF\EN8591 notes.pdf,EN8591 notes.pdf
+C:\Users\cse\Documents\UiPath\Datatable\PDF\Joinpdffile.pdf,Joinpdffile.pdf
+C:\Users\cse\Documents\UiPath\Datatable\PDF\New Microsoft Excel Worksheet.xlsx,New Microsoft Excel Worksheet.xlsx
+C:\Users\cse\Documents\UiPath\Datatable\PDF\New Text Document.txt,New Text Document.txt
+C:\Users\cse\Documents\UiPath\Datatable\PDF\PDF Files.pdf,PDF Files.pdf
+C:\Users\cse\Documents\UiPath\Datatable\PDF\samplePDf.pdf,samplePDf.pdf

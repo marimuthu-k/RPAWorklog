@@ -1,0 +1,9 @@
+EmpID,EmpName,EmpEmail,Dept,EmpAttance,Salary,EmpPhoneNo,Bonus
+101,Maari,maari@gmail.com,RPA,67,12000,5485425115,Eligible
+102,hari,hari@gmail.com,RPA,60,35000,2545215364,Eligible
+103,prabu,prabu@gmail.com,Android,65,40000,5243697125,Eligible
+104,Yuvi,yuvi@gmail.com,Android,47,35000,2524785458,Not Eligible
+105,deva,deva@gmail.com,IOT,55,45000,2542565475,Not Eligible
+106,karthi,karthi@gmail.com,IOT,63,30000,2154369870,Eligible
+107,kavitha,kavitha@gmail.com,FullStack,88,42000,1234567890,Eligible
+108,pooja,pooja@gmail.com,FullStack,93,32000,9874563210,Eligible
